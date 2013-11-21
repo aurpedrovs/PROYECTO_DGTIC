@@ -1,5 +1,5 @@
 <?php
-HOLAAAAAAAAAA
+Adiosss
 /*
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT
