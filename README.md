@@ -1,11 +1,10 @@
 #Sistema de Mejora Continua - DGTIC
 =======================================
-
 >Repositorio privado para alojar el control de versiones del Proyecto de Sistema de Mejora Continua.
 
 
 
-## Miembros del equipo
+Miembros del equipo
 ---------------------------
 - CARMONA PÉREZ JOSÉ MANUEL
 - FIGUEROA LOPEZ JOSE ANTONIO
